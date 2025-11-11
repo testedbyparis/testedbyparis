@@ -1,6 +1,6 @@
 # Hi, I’m Ana Carolina Paris 👋  
 
-**Software QA Engineer** who believes **testing goes far beyond software**.  
+I'm a Software QA Engineer who believes **testing goes far beyond software**.  
 
 I love exploring how **curiosity**, **detail**, and even **imperfection** shape not just better products, but better lives.  
 
@@ -12,4 +12,4 @@ On this page, you’ll find stories about **technology**, **growth**, **balance*
 
 [Instagram](https://www.instagram.com/carola.paris/)
 
-✨ **Making things fail beautifully — Tested by Ana.**
+✨ **Making things fail beautifully — Tested by Paris.**
