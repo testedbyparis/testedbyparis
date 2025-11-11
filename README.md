@@ -8,8 +8,8 @@ On this page, you’ll find stories about **technology**, **growth**, **balance*
 
 ☕ Find more of my work and thoughts on my socials.  
 
-[LinkedIn:](https://www.linkedin.com/in/carolinaparis/)
+[LinkedIn](https://www.linkedin.com/in/carolinaparis/)
 
-[Instagram:](https://www.instagram.com/carola.paris/)
+[Instagram](https://www.instagram.com/carola.paris/)
 
 ✨ **Making things fail beautifully — Tested by Ana.**
