@@ -12,4 +12,6 @@ On this page, you’ll find stories about **technology**, **growth**, **balance*
 
 [Instagram](https://www.instagram.com/carola.paris/)
 
+[Medium](https://medium.com/@carolinaparis/)
+
 ✨ **Making things fail beautifully — Tested by Paris.**
